@@ -1,0 +1,4 @@
+Horus_VFS_Student_Design_Competition.pdf filter=lfs diff=lfs merge=lfs -text
+Horus_VFS_Student_Design_Competition_Proposal.pdf filter=lfs diff=lfs merge=lfs -text
+A_Cost-Effective_Methodology_for_Estimating_Drag_Polars_of_Parametric_Vehicle_Configurations_at_Low_Speeds_Paper filter=lfs diff=lfs merge=lfs -text
+The_Hybrid_Environmental_Immersive_Simulation_Training_Paper.pdf filter=lfs diff=lfs merge=lfs -text
